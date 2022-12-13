@@ -9,7 +9,7 @@
 
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-    ## <b>Introduccion </b> 
+ <b>Introduccion </b> 
 
 Este repositorio fue creado con la intención de ayudar a los desarrolladores a dominar sus conceptos en JavaScript. No es un requisito, sino una guía para futuros estudios. Se basa en un artículo escrito por [Stephen Curtis] (https://twitter.com/stephenthecurt) y puedes leerlo [aquí] (https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
