@@ -3,23 +3,23 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 Conceptos que todo desarrollador de JavaScript debe conocer
   <br><br>
 </h1>
 
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-    ## <b>Introduction </b> 
+    ## <b>Introduccion </b> 
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Este repositorio fue creado con la intención de ayudar a los desarrolladores a dominar sus conceptos en JavaScript. No es un requisito, sino una guía para futuros estudios. Se basa en un artículo escrito por [Stephen Curtis] (https://twitter.com/stephenthecurt) y puedes leerlo [aquí] (https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Considerado por GitHub como uno de los [mejores proyectos de código abierto de 2018!] (https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## Comunidad
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Siéntase libre de enviar un PR agregando un enlace a sus propios resúmenes o reseñas. Si desea traducir el repositorio a su idioma nativo, no dude en hacerlo.
 
-All the translations for this repo will be listed below:
+Todas las traducciones para este repositorio se enumerarán a continuación:
 
 - [اَلْعَرَبِيَّةُ(Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
@@ -45,7 +45,7 @@ All the translations for this repo will be listed below:
 
 ---
 
-## <a id="table-of-contents">Table of Contents</a>
+## <a id="table-of-contents">Tabla de Contenido</a>
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
@@ -85,11 +85,11 @@ All the translations for this repo will be listed below:
 
 ## 1. Call Stack
 
-### Reference
+### Referencias
 
 - 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
-### Articles
+### Artículos
 
 - 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
 - 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
@@ -115,13 +115,13 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 2. Primitive Types
+## 2. Tipos de datos primitivos
 
-### Reference
+### Referencia
 
 - 📜 [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### Articles
+### Artículos
 
 - 📜 [Primitive and Non-primitive data-types in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript)
 - 📜 [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
@@ -149,9 +149,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. Tipos de valor y tipos de referencia
 
-### Articles
+### Articulos
 
 - 📜 [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - 📜 [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
@@ -174,9 +174,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Implícito, explícito, nominal, estructuración y tipificación de pato
 
-### Articles
+### Artículos
 
 - 📜 [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
 - 📜 [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
@@ -191,7 +191,7 @@ All the translations for this repo will be listed below:
 - 🎥 [Typing: Static vs Dynamic, Weak vs. Strong - Codexpanse](https://www.youtube.com/watch?v=C5fr0LZLMAs)
 - 🎥 [EL SISTEMA de TIPOS DE JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=0ei4nb49GKo)
 
-### Books
+### Libros
 
 - [You Don't Know JS, 1st Edition: Types & Grammar — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
@@ -201,7 +201,7 @@ All the translations for this repo will be listed below:
 
 ## 5. == vs === vs typeof
 
-### Articles
+### Artículos
 
 - 📜 [JavaScript Double Equals vs. Triple Equals — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
 - 📜 [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
@@ -225,13 +225,13 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 6. Function Scope, Block Scope and Lexical Scope
+## 6. Ámbito de función, ámbito de bloque y ámbito léxico
 
-    ### <b>Books</b>
+    ### <b>Libros</b>
 
 - [You Don't Know JS Yet, 2nd Edition: Scope & Closures — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
-    ### <b>Articles </b>
+    ### <b>Artículos</b>
 
 - 📜 [JavaScript Functions — Understanding The Basics — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
 - 📜 [The battle between Function Scope and Block Scope — Marius Herring](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
@@ -262,7 +262,7 @@ All the translations for this repo will be listed below:
 
 ## 7. Expression vs Statement
 
-### Articles
+### Artículos
 
 - 📜 [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 - 📜 [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
@@ -279,9 +279,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 8. IIFE, Modules and Namespaces
+## 8. IIFE, Modulos y Namespaces
 
-### Articles
+### Artículos
 
 - 📜 [Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 - 📜 [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
@@ -311,9 +311,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 9. Message Queue and Event Loop
+## 9. Cola de mensajes y bucle de eventos
 
-### Articles
+### Artículos
 
 - 📜 [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
 - 📜 [The JavaScript Event Loop: Explained — Erin Sweson-Healey](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
@@ -338,9 +338,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 10. setTimeout, setInterval and requestAnimationFrame
+## 10. setTimeout, setInterval y requestAnimationFrame
 
-### Articles
+### Artículos
 
 - 📜 [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
 - 📜 [Why not to use setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
@@ -362,7 +362,7 @@ All the translations for this repo will be listed below:
 
 ## 11. JavaScript Engines
 
-### Articles
+### Artículos
 
 - 📜 [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
 - 📜 [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
@@ -386,7 +386,7 @@ All the translations for this repo will be listed below:
 
 ## 12. Bitwise Operators, Type Arrays and Array Buffers
 
-### Articles
+### Artículos
 
 - 📜 [Programming with JS: Bitwise Operations — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
 - 📜 [Using JavaScript’s Bitwise Operators in Real Life — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
@@ -403,13 +403,13 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 13. DOM and Layout Trees
+## 13. DOM y Arboles
 
-### Books
+### Libros
 
 - 📜 [Eloquent JavaScript, 3rd Edition: Ch. 14 - The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
-### Articles
+### Artículos
 
 - 📜 [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 - 📜 [What’s the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
@@ -430,9 +430,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 14. Factories and Classes
+## 14. Factories y Clases
 
-### Articles
+### Artículos
 
 - 📜 [How To Use Classes in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 - 📜 [Javascript Classes — Under The Hood — Majid](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
@@ -455,15 +455,15 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 15. this, call, apply and bind
+## 15. this, call, apply y bind
 
-### Reference
+### Referencia
 
 - 📜 [call() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - 📜 [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
 - 📜 [apply() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
-### Articles
+### Artículos
 
 - 📜 [Grokking call(), apply() and bind() methods in JavaScript — Aniket Kudale](https://levelup.gitconnected.com/grokking-call-apply-and-bind-methods-in-javascript-392351a4be8b)
 - 📜 [How-to: call() , apply() and bind() in JavaScript — Niladri Sekhar Dutta](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
@@ -501,9 +501,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 16. new, Constructor, instanceof and Instances
+## 16. new, Constructor, instanceof e Instances
 
-### Articles
+### Artículos
 
 - 📜 [JavaScript For Beginners: the ‘new’ operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
 - 📜 [Let’s demystify JavaScript’s ‘new’ keyword — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
@@ -518,7 +518,7 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 17. Prototype Inheritance and Prototype Chain
+## 17. Prototype Inheritance y Prototype Chain
 
 ### Reference
 
@@ -562,7 +562,7 @@ All the translations for this repo will be listed below:
 - 🎥 [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
 - 🎥 [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
-### Books
+### Libros
 
 - [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
@@ -570,14 +570,14 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 18. Object.create and Object.assign
+## 18. Object.create y Object.assign
 
-### Reference
+### Referencia
 
 - 📜 [Object.create() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 - 📜 [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 
-### Articles
+### Artículos
 
 - 📜 [Object.create in JavaScript — Rupesh Mishra](https://medium.com/@happymishra66/object-create-in-javascript-fa8674df6ed2)
 - 📜 [Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
@@ -601,7 +601,7 @@ All the translations for this repo will be listed below:
 
 ## 19. map, reduce, filter
 
-### Articles
+### Arículos
 
 - 📜 [JavaScript Functional Programming — map, filter and reduce — Bojan Gvozderac](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
 - 📜 [Learn map, filter and reduce in Javascript — João Miguel Cunha](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
@@ -659,9 +659,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 20. Pure Functions, Side Effects, State Mutation and Event Propagation
+## 20. Pure Functions, Side Effects, State Mutation y Event Propagation
 
-### Articles
+### Artículos
 
 - 📜 [Javascript and Functional Programming — Pure Functions — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
 - 📜 [Master the JavaScript Interview: What is a Pure Function? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -747,11 +747,11 @@ All the translations for this repo will be listed below:
 
 ## 22. High Order Functions
 
-### Books
+### Libros
 
 - 📜 [Eloquent JavaScript, 3rd Edition: Ch. 5 - Higher-order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
-### Articles
+### Artículos
 
 - 📜 [Higher-Order Functions in JavaScript — M. David Green](https://www.sitepoint.com/higher-order-functions-javascript/)
 - 📜 [Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code — Guido Schmitz](https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528)
@@ -778,7 +778,7 @@ All the translations for this repo will be listed below:
 
 ## 23. Recursion
 
-### Articles
+### Artículos
 
 - 📜 [Recursion in JavaScript — Kevin Ennis](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f)
 - 📜 [Understanding Recursion in JavaScript — Zak Frisch](https://medium.com/@zfrisch/understanding-recursion-in-javascript-992e96449e03)
@@ -807,13 +807,13 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 24. Collections and Generators
+## 24. Collections y Generators
 
-### Reference
+### Referencias
 
 - 📜 [Generator — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 
-### Articles
+### Artículos
 
 - 📜 [ES6 In Depth: Collections — Jason Orendorff](https://hacks.mozilla.org/2015/06/es6-in-depth-collections/)
 - 📜 [ES6 Collections: Using Map, Set, WeakMap, WeakSet — Kyle Pennell](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
@@ -844,11 +844,11 @@ All the translations for this repo will be listed below:
 
 ## 25. Promises
 
-### Reference
+### Referencias
 
 - 📜 [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-### Articles
+### Artículos
 
 - 📜 [JavaScript Promises for Dummies ― Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
 - 📜 [Understanding promises in JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
@@ -897,16 +897,16 @@ All the translations for this repo will be listed below:
 
 ## 26. async/await
 
-### Reference
+### Referencia
 
 - 📜 [async/await — JavaScript.Info](https://javascript.info/async-await)
 
-### Books
+### Libros
 
 - 📜 [Eloquent JavaScript, 3rd Edition: Ch. 11 - Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 - 📜 [Exploring JS: Asynchronous Programming](http://exploringjs.com/es6/ch_async.html)
 
-### Articles
+### Artículos
 
 - 📜 [Understanding async/await in Javascript — Gokul N K](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
 - 📜 [Asynchronous Javascript using async/await — Joy Warugu](https://scotch.io/tutorials/asynchronous-javascript-using-async-await)
@@ -945,9 +945,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 27. Data Structures
+## 27. Estructura de Datos
 
-### Articles
+### Artículos
 
 - 📜 [Data Structures in JavaScript — Thon Ly](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 - 📜 [Algorithms and Data Structures in JavaScript — Oleksii Trekhleb](https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb)
@@ -975,9 +975,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 28. Expensive Operation and Big O Notation
+## 28. Expensive Operation y Big O Notation
 
-### Articles
+### Artículos
 
 - 📜 [Big O Notation in Javascript — César Antón Dorantes](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - 📜 [Time Complexity/Big O Notation — Tim Roberts](https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b)
@@ -997,9 +997,9 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 29. Algorithms
+## 29. Algoritmos
 
-### Articles
+### Artículos
 
 - 📜 [Data Structures and Algorithms using ES6](https://github.com/Crizstian/data-structure-and-algorithms-with-ES6)
 - 📜 [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
@@ -1015,14 +1015,14 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. Inheritance, Poliformismo y Code Reuse
 
-### Reference
+### Referencia
 
 - 📜 [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
 - 📜 [Class inheritance, super — JavaScript.Info](https://javascript.info/class-inheritance)
 
-### Articles
+### Artículos
 
 - 📜 [Inheritance in JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
 - 📜 [Simple Inheritance with JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
@@ -1043,11 +1043,11 @@ All the translations for this repo will be listed below:
 
 ## 31. Design Patterns
 
-### Books
+### Libros
 
 - 📜 [Learning JavaScript Design Patterns — Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-### Articles
+### Artículos
 
 - 📜 [4 JavaScript Design Patterns You Should Know — Devan Patel](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 - 📜 [JavaScript Design Patterns – Beginner's Guide to Mobile Web Development — Soumyajit Pathak](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
@@ -1077,13 +1077,13 @@ All the translations for this repo will be listed below:
 
 ---
 
-## 32. Partial Applications, Currying, Compose and Pipe
+## 32. Partial Applications, Currying, Compose y Pipe
 
-### Books
+### Libros
 
 - 📜 [Functional-Light JavaScript: Ch. 3 - Managing Function Inputs — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
 
-### Articles
+### Artículos
 
 - 📜 [Use function composition in JavaScript — Rémi](https://www.codementor.io/michelre/use-function-composition-in-javascript-gkmxos5mj)
 - 📜 [Currying in JavaScript ES6 — Adam Bene](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
@@ -1130,7 +1130,7 @@ All the translations for this repo will be listed below:
 
 ## 33. Clean Code
 
-### Articles
+### Artículos
 
 - 📜 [Clean Code Explained – A Practical Introduction to Clean Coding for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
 - 📜 [Clean Code concepts adapted for JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
